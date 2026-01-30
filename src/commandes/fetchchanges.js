@@ -4,7 +4,7 @@ module.exports = {
 	"fields": [
 		{
 			"title": "1.",
-			"description": "First, you'll need to add the original repo as a remote origin. If you already done so, you can skip this step.\n`git remote add upstream git@github.com:dscalzi/HeliosLauncher.git`"
+			"description": "First, you'll need to add the original repo as a remote origin. If you already done so, you can skip this step.\n`git remote add upstream https://github.com/dscalzi/HeliosLauncher.git`"
 		},
 		{
 			"title": "2.",
@@ -16,7 +16,7 @@ module.exports = {
 		},
 		{
 			"title": "4.",
-			"description": "You can now update your local branch with `git checkout master` then `git merge upstream/master`"
+			"description": "You can now update your local branch and merge the latest changes on the original repo with `git merge upstream/master`"
 		},
 		{
 			"title": "5.",

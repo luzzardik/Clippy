@@ -16,7 +16,7 @@ module.exports = {
 		},
 		{
 			"title": "4.",
-			"description": "Procédez à la mise à jour de votre branche locale à l'aide de `git checkout master` puis `git merge upstream/master`"
+			"description": "Procédez à la mise à jour de votre branche locale et à la fusion des derniers changements sur le repo originel à l'aide de `git merge upstream/master`"
 		},
 		{
 			"title": "5.",
